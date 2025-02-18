@@ -3,7 +3,8 @@ import 'package:google_fonts/google_fonts.dart';
 
 final ThemeData appTheme = ThemeData(
   useMaterial3: true,
-  fontFamily: GoogleFonts.benne().fontFamily,
+  fontFamily: GoogleFonts.manrope().fontFamily,
+  scaffoldBackgroundColor: SJColors.primary,
 );
 
 class SJColors {
