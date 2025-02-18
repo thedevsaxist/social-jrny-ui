@@ -28,6 +28,7 @@ class SJButton extends StatelessWidget {
           shape: RoundedRectangleBorder(
             side: const BorderSide(
               color: Colors.black,
+              width: 1.5,
             ),
             borderRadius: BorderRadius.circular(20),
           ),

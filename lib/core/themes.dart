@@ -11,4 +11,5 @@ class SJColors {
   static const Color primary = Color(0xFF8ED701);
   static const Color secondary = Color(0xFF538000);
   static const Color black = Color(0xFF020800);
+  static const Color lemon = Color(0xFFDDDFAE);
 }
