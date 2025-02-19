@@ -10,6 +10,8 @@ Social Jrny UI is a Flutter project aimed at creating a user interface for a soc
 -   Notifications
 -   Messaging
 
+![Onboarding Page](<Simulator Screenshot - iPhone 15 - 2025-02-18 at 21.18.26.png>)
+
 ## Getting Started
 
 To get started with this project, follow the instructions below.
